@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0288D1</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="background_light">#E3F2FD</color>
+    <color name="text_blue">#1976D2</color>
+    <color name="text_green">#388E3C</color>
+    <color name="text_pink">#D81B60</color>
+    <color name="text_orange">#F57C00</color>
+    <color name="text_youtube">#FF5722</color>
+</resources>
